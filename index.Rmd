@@ -17,6 +17,6 @@ description: "An experimental exploration into freelancing science."
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
 by Juniper Leona Simonis (*they/them*)
-of [DAPPER stats](dapperstats.com)
+of [DAPPER stats](http://dapperstats.com)
 about, perhaps unsurprisingly, 
 their experiences freelancing science.
