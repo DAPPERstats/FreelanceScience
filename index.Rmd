@@ -18,7 +18,7 @@ description: "An experimental exploration into freelancing science."
 
 ```{r, echo=FALSE}
 # Define variable containing url
-url <- "http://www.online-image-editor.com//styles/2014/images/example_image.png"
+url <- "https://cdn.shopify.com/s/files/1/0812/9513/products/1026e57a-cf75-4bee-b988-175187606e78_1024x1024.jpg"
 ```
 ## Some cat!
 <center><img src="`r url`"></center>
