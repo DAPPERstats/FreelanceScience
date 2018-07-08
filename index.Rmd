@@ -14,4 +14,9 @@ description: "An experimental exploration into freelancing science."
 
 # Prerequisites
 
-[HI HOW ARE YOU?](https://en.wikipedia.org/wiki/Hi,_How_Are_You#/media/File:Daniel_Johnston-Hi_How_Are_You.jpg)
+```{r, echo=FALSE}
+# Define variable containing url
+url <- "https://en.wikipedia.org/wiki/Hi,_How_Are_You#/media/File:Daniel_Johnston-Hi_How_Are_You.jpg"
+```
+## Some cat!
+<center><img src="`r url`"></center>
