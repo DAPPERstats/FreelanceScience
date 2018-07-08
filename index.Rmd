@@ -12,13 +12,9 @@ github-repo: rstudio/bookdown-demo
 description: "An experimental exploration into freelancing science."
 ---
 
-# Prerequisites
-
-[HI HOW ARE YOU?](https://en.wikipedia.org/wiki/Hi,_How_Are_You#/media/File:Daniel_Johnston-Hi_How_Are_You.jpg)
+# Welcome {-}
 
 ```{r, echo=FALSE}
-# Define variable containing url
 url <- "https://cdn.shopify.com/s/files/1/0812/9513/products/1026e57a-cf75-4bee-b988-175187606e78_1024x1024.jpg"
 ```
-## Some cat!
 <center><img src="`r url`"></center>
