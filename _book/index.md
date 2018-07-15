@@ -28,4 +28,5 @@ their experiences freelancing science.
 <br>
 The working online version of this book is licensed under the
 [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 [![Creative Commons License](images/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
