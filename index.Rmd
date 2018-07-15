@@ -8,11 +8,14 @@ documentclass: book
 bibliography: [references.bib]
 biblio-style: apalike
 link-citations: yes
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
 github-repo: dapperstats/freelancescience
 description: "An experimental exploration into freelancing science."
 ---
 
-# Welcome {-}
+# Preface {-}
 
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
@@ -20,3 +23,20 @@ by Juniper Leona Simonis (*they/them*)
 of [DAPPER stats](http://dapperstats.com)
 about, perhaps unsurprisingly, 
 their experiences freelancing science.
+
+```{r out.width='80%', echo=FALSE}
+knitr::include_graphics('images/cover_idea.tif')
+```
+
+## Why read this book? {-}
+
+
+
+## Stucture of this book {-}
+
+The outline of the book will be turned into a paragraph dsecription here.
+
+## Acknowledgements {-}
+
+Many people have contributed to the success of DAPPER Stats.
+I will acknowledge them accordingly here.
