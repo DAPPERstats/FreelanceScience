@@ -8,13 +8,15 @@ bibliography: [references.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: dapperstats/freelancescience
-cover-image: "static/cover.png"
+cover-image: "images/cover.png"
 url: 'https\://freelancescience.guide'
 description: "An experimental exploration into freelancing science."
 ---
 
 
 # Preface {-}
+
+![](images/cover.png)
 
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
@@ -23,6 +25,7 @@ of [DAPPER stats](http://dapperstats.com)
 about, perhaps unsurprisingly, 
 their experiences freelancing science.
 
-![Creative Commons License](images/by-nc-sa.png)  
+<br>
 The working online version of this book is licensed under the
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[![Creative Commons License](images/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
