@@ -1,4 +1,4 @@
-# About the Author {-}
+# About the Author {-#author}
 
 Juniper Simonis (*they/them*) is a freelance quantitative ecologist at [DAPPER Stats](www.dapperstats.com) 
 and data analyst in the [Weecology lab](www.weecology.org) at the University of Florida.
