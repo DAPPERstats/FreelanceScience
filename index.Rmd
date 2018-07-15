@@ -15,7 +15,12 @@ github-repo: dapperstats/freelancescience
 description: "An experimental exploration into freelancing science."
 ---
 
+
 # Preface {-}
+
+```{r out.width='100%', echo=FALSE}
+knitr::include_graphics('images/cover_idea.png')
+```
 
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
@@ -24,13 +29,11 @@ of [DAPPER stats](http://dapperstats.com)
 about, perhaps unsurprisingly, 
 their experiences freelancing science.
 
-```{r out.width='80%', echo=FALSE}
-knitr::include_graphics('images/cover_idea.tif')
-```
-
 ## Why read this book? {-}
 
-
+Are you interested in doing science for yourself? 
+But not sure how to even get started?
+This is the book for you.
 
 ## Stucture of this book {-}
 
