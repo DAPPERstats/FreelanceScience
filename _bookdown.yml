@@ -1,7 +1,7 @@
 book_filename: "bookdown-start"
 chapter_name: "Chapter "
 repo: https://github.com/dapperstats/freelancescience
-output_dir: docs
+output_dir: _book
 rmd_files: ["index.Rmd", "01-introduction.Rmd", "00-references.Rmd", "00-author.Rmd", "00-acknowledgements.Rmd"]
 clean: [references.bib]
 new_session: yes

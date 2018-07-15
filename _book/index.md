@@ -16,9 +16,6 @@ description: "An experimental exploration into freelancing science."
 
 # Preface {-}
 
-
-<center><img src = "https://raw.githubusercontent.com/dapperstats/FreelanceScience/master/images/cover_idea.png"></center>
-
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
 by Dr. Juniper L. Simonis (*they/them*)
