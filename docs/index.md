@@ -1,7 +1,7 @@
 --- 
 title: "A Freelance Science Experiment"
 author: "Juniper Leona Simonis"
-date: "`r Sys.Date()`"
+date: "2018-07-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -16,10 +16,8 @@ description: "An experimental exploration into freelancing science."
 
 # Preface {-}
 
-```{r echo=FALSE}
-url <- "https://raw.githubusercontent.com/dapperstats/FreelanceScience/master/images/cover_idea.png"
-```
-<center><img src = "`r url`"></center>
+
+<center><img src = "https://raw.githubusercontent.com/dapperstats/FreelanceScience/master/images/cover_idea.png"></center>
 
 Welcome to the site of the *being-drafted* book,
 provisionally titled *A Freelance Science Experiment*,
