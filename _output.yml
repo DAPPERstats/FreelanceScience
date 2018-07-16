@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">A Freelance Science Experiment</a></li>
       after: |
-        <li><a href = "http://www.dapperstats.com" target = "blank">A DAPPER stats book</a><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href = "http://www.dapperstats.com" target = "blank">A DAPPER Stats book</a><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
