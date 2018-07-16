@@ -1,6 +1,7 @@
-book_filename: "a-freelance-science-experiment"
+book_filename: "a-freelance-science-experiment.Rmd"
 chapter_name: "Chapter "
 repo: https://github.com/dapperstats/freelancescience
+edit: https://github.com/dapperstats/freelancescience/edit/master/%s
 output_dir: _book
 rmd_files: ["index.Rmd", "01-introduction.Rmd", "02-administration.Rmd", "03-bd.Rmd", "00-references.Rmd", "00-author.Rmd", "00-acknowledgements.Rmd"]
 clean: [references.bib]
