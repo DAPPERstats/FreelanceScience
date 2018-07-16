@@ -67,9 +67,14 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
-<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1.1" data-path="intro.html"><a href="intro.html#a-freelance-what"><i class="fa fa-check"></i><b>1.1</b> “A freelance what?”</a></li>
+</ul></li>
 <li class="chapter" data-level="2" data-path="admin.html"><a href="admin.html"><i class="fa fa-check"></i><b>2</b> Administration</a><ul>
-<li class="chapter" data-level="2.1" data-path="admin.html"><a href="admin.html#location"><i class="fa fa-check"></i><b>2.1</b> Location</a></li>
+<li class="chapter" data-level="2.1" data-path="admin.html"><a href="admin.html#location"><i class="fa fa-check"></i><b>2.1</b> Location</a><ul>
+<li class="chapter" data-level="2.1.1" data-path="admin.html"><a href="admin.html#office"><i class="fa fa-check"></i><b>2.1.1</b> Office</a></li>
+<li class="chapter" data-level="2.1.2" data-path="admin.html"><a href="admin.html#address"><i class="fa fa-check"></i><b>2.1.2</b> Address</a></li>
+</ul></li>
 <li class="chapter" data-level="2.2" data-path="admin.html"><a href="admin.html#incorporating"><i class="fa fa-check"></i><b>2.2</b> Incorporating</a></li>
 <li class="chapter" data-level="2.3" data-path="admin.html"><a href="admin.html#registration"><i class="fa fa-check"></i><b>2.3</b> Registration</a></li>
 <li class="chapter" data-level="2.4" data-path="admin.html"><a href="admin.html#certifications"><i class="fa fa-check"></i><b>2.4</b> Certifications</a></li>
@@ -161,24 +166,25 @@ gitbook.start({
 "facebook": true,
 "twitter": true,
 "google": false,
-"linkedin": false,
+"linkedin": true,
 "weibo": false,
 "instapper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": false,
+"instapaper": false
 },
 "fontsettings": {
 "theme": "white",
 "family": "sans",
 "size": 2
 },
-"edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/03-bd.Rmd",
-"text": "Edit"
-},
-"download": ["a-freelance-science-experiment.pdf", "a-freelance-science-experiment.epub"],
+"edit": null,
+"download": null,
 "toc": {
-"collapse": "subsection"
+"collapse": "section"
+},
+"toolbar": {
+"position": "fixed"
 }
 });
 });

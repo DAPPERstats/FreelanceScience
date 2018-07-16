@@ -2,6 +2,10 @@
 
 ## Location
 
+### Office
+
+### Address
+
 ## Incorporating
 
 ## Registration

@@ -8,3 +8,6 @@ and indeed, that's why the title is ***A*** --not ***The***-- *Freelance Science
 
 This book is a (very early) work in progress, and as such, the content and structure are evolving.
 Presently, the content is organized by overarching aspects of freelancing science being broken down into specific tasks.
+
+## "A freelance what?"
+
