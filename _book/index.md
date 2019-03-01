@@ -1,6 +1,6 @@
 --- 
 title: "Freelance Science Guide"
-author: "Juniper Leona Simonis"
+author: "Dr. Juniper L. Simonis"
 date: "2019-03-01"
 site: bookdown::bookdown_site
 documentclass: book
@@ -16,7 +16,8 @@ description: "A guide to freelancing science."
 
 # Preface {-}
 
-![](images/cover.png)
+[![Cover](images/cover.png)](https://freelancescience.guide)
+
 
 Welcome to the site of the **being-drafted** *Freelance Science Guide*
 by Dr. Juniper L. Simonis (*they/them*) of 
