@@ -24,3 +24,6 @@ by Dr. Juniper L. Simonis (*they/them*) of
 
 This book is licensed under the
 [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Source code is housed on [GitHub](https://github.com/DAPPERstats/FreelanceScience) and
+continuous integration is maintained on [Travis](https://travis-ci.org/dapperstats/FreelanceScience).
