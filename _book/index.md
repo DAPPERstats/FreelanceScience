@@ -1,7 +1,7 @@
 --- 
-title: "A Freelance Science Experiment"
+title: "Freelance Science Guide"
 author: "Juniper Leona Simonis"
-date: "2018-07-15"
+date: "2019-03-01"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -18,15 +18,17 @@ description: "An experimental exploration into freelancing science."
 
 ![](images/cover.png)
 
-Welcome to the site of the *being-drafted* book,
-provisionally titled *A Freelance Science Experiment*,
-by Dr. Juniper L. Simonis (*they/them*)
-of [DAPPER stats](http://dapperstats.com)
-about, perhaps unsurprisingly, 
-their experiences freelancing science.
+Welcome to the site of the **being-drafted** *Freelance Science Guide*
+by Dr. Juniper L. Simonis (*they/them*) of 
+[DAPPER stats](http://dapperstats.com).
 
 <br>
-The working online version of this book is licensed under the
+This book is licensed under the
 [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[![Creative Commons License](images/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Source code is housed on [GitHub](https://github.com/DAPPERstats/FreelanceScience) and
+continuous integration is maintained on [Travis](https://travis-ci.org/dapperstats/FreelanceScience)
+[![Build Status](https://api.travis-ci.org/dapperstats/FreelanceScience.svg?branch=master)](https://travis-ci.org/dapperstats/FreelanceScience)
 
-[![Creative Commons License](images/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+<br>
+![DAPPER stats logo](images/dapper.png#thumbnail_logo)

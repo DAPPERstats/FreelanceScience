@@ -12,3 +12,10 @@ pre {
 pre code {
   white-space: inherit;
 }
+img[src*="#thumbnail_logo"] {
+  width:227.5px;
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
