@@ -9,5 +9,7 @@ Juniper is a 3-time world champion roller derby skater who competes with the [Ro
 currently ranked #1 in the [WFTDA](www.wftda.com).
 
 <br> 
+<a href="http://dapperstats.com">
 <img src="images/jls1.png" alt="JLS"
 	width="333.4" height="500" class ="center"/>
+</a>
