@@ -1,5 +1,5 @@
 --- 
-title: "A Freelance Science Experiment"
+title: "Freelance Science Guide"
 author: "Juniper Leona Simonis"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -10,7 +10,7 @@ link-citations: yes
 github-repo: dapperstats/freelancescience
 cover-image: "images/cover.png"
 url: 'https\://freelancescience.guide'
-description: "An experimental exploration into freelancing science."
+description: "A guide to freelancing science."
 ---
 
 
