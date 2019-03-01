@@ -30,4 +30,4 @@ continuous integration is maintained on [Travis](https://travis-ci.org/dappersta
 
 <br>
 <img src="images/dapper.png" alt="DAPPER Stats logo"
-	width="227.5" height="100" />
+	width="227.5" height="100" class ="center"/>
