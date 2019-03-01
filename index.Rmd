@@ -29,4 +29,4 @@ Source code is housed on [GitHub](https://github.com/DAPPERstats/FreelanceScienc
 continuous integration is maintained on [Travis](https://travis-ci.org/dapperstats/FreelanceScience).
 
 <br>
-![DAPPER stats logo](images/dapper.png#thumbnail_logo)
+![DAPPER stats logo](images/dapper.png)
