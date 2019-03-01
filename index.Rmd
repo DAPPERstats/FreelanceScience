@@ -30,4 +30,4 @@ continuous integration is maintained on [Travis](https://travis-ci.org/dappersta
 [![Build Status](https://api.travis-ci.org/dapperstats/FreelanceScience.svg?branch=master)](https://travis-ci.org/dapperstats/FreelanceScience).
 
 <br>
-![DAPPER stats logo](images/dapper.png#thumbnail_logo)
+![DAPPER stats logo](images/dapper.png)
