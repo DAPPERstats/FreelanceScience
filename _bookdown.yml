@@ -1,4 +1,4 @@
-book_filename: "freelance-science-guide.Rmd"
+book_filename: "freelance_science_guide.Rmd"
 chapter_name: "Chapter "
 repo: https://github.com/dapperstats/freelancescience
 edit: https://github.com/dapperstats/freelancescience/edit/master/%s
