@@ -18,12 +18,10 @@ description: "An experimental exploration into freelancing science."
 
 ![](images/cover.png)
 
-Welcome to the site of the *being-drafted* book,
-provisionally titled *A Freelance Science Experiment*,
-by Dr. Juniper L. Simonis (*they/them*)
-of [DAPPER stats](http://dapperstats.com)
-about, perhaps unsurprisingly, 
-their experiences freelancing science.
+Welcome to the site of the **being-drafted** *Freelance Science Guide*
+by Dr. Juniper L. Simonis (*they/them*) of 
+[DAPPER stats](http://dapperstats.com).
+
 
 <br>
 The working online version of this book is licensed under the
