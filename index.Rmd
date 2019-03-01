@@ -27,3 +27,6 @@ This book is licensed under the
 
 Source code is housed on [GitHub](https://github.com/DAPPERstats/FreelanceScience) and
 continuous integration is maintained on [Travis](https://travis-ci.org/dapperstats/FreelanceScience).
+
+<br>
+![DAPPER stats logo](images/dapper.png)
