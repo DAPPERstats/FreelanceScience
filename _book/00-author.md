@@ -5,5 +5,8 @@ and data analyst in the [Weecology lab](www.weecology.org) at the University of 
 
 Juniper earned their PhD from the Department of Ecology & Evolutionary Biology at Cornell University in 2013.
 
-Juniper is a 2-time world champion roller derby skater who competes with the [Rose City Roller](www.rosecityrollers.com)'s Wheels of Justice, 
-currently ranked #2 in the [WFTDA](www.wftda.com)
+Juniper is a 3-time world champion roller derby skater who competes with the [Rose City Roller](www.rosecityrollers.com)'s Wheels of Justice, 
+currently ranked #1 in the [WFTDA](www.wftda.com).
+
+<br> 
+[![JLS](images/jls1.png#thumbnail_jls)](https://www.dapperstats.com)

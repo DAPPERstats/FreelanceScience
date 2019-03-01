@@ -1,6 +1,6 @@
 --- 
 title: "Freelance Science Guide"
-author: "Juniper Leona Simonis"
+author: "Dr. Juniper L. Simonis"
 date: "2019-03-01"
 site: bookdown::bookdown_site
 documentclass: book
@@ -14,21 +14,20 @@ description: "An experimental exploration into freelancing science."
 ---
 
 
-# Preface {-}
+# {-}
 
-![](images/cover.png)
+[![Cover](images/cover.png)](https://freelancescience.guide)
 
 Welcome to the site of the **being-drafted** *Freelance Science Guide*
 by Dr. Juniper L. Simonis (*they/them*) of 
 [DAPPER stats](http://dapperstats.com).
 
-<br>
 This book is licensed under the
 [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-[![Creative Commons License](images/by-nc-sa.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 Source code is housed on [GitHub](https://github.com/DAPPERstats/FreelanceScience) and
 continuous integration is maintained on [Travis](https://travis-ci.org/dapperstats/FreelanceScience)
-[![Build Status](https://api.travis-ci.org/dapperstats/FreelanceScience.svg?branch=master)](https://travis-ci.org/dapperstats/FreelanceScience)
+[![Build Status](https://api.travis-ci.org/dapperstats/FreelanceScience.svg?branch=master)](https://travis-ci.org/dapperstats/FreelanceScience).
 
 <br>
 ![DAPPER stats logo](images/dapper.png#thumbnail_logo)
+

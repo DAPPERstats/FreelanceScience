@@ -19,3 +19,10 @@ img[src*="#thumbnail_logo"] {
   margin-left: auto;
   margin-right: auto;
 }
+img[src*="#thumbnail_jls"] {
+  width:333.4px;
+  height:500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
