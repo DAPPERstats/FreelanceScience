@@ -1,4 +1,4 @@
-[![Guide logo](images/cover.png)](www.freelancescience.guide)
+[![Guide logo](images/cover.png)](https://www.freelancescience.guide)
 
 This is the repository for the **being-drafted** *Freelance Science Guide*
 by Dr. Juniper L. Simonis (*they/them*) of 
