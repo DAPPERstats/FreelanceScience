@@ -1,7 +1,7 @@
 --- 
 title: "A Freelance Science Experiment"
 author: "Juniper Leona Simonis"
-date: "2018-07-15"
+date: "2019-03-01"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
