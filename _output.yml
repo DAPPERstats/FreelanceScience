@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">A Freelance Science Experiment</a></li>
+        <li><a href="./">Freelance Science Guide</a></li>
       after: |
         <li><a href = "http://www.dapperstats.com" target = "blank">A DAPPER Stats book</a><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     toolbar:
