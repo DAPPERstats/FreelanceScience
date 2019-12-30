@@ -1,10 +1,15 @@
 # Introduction {#intro}
 
-In this book, you'll find insights and lessons learned from my experiences as a freelance data scientist and entrepreneur
-as well as tips and tricks for getting started on your own freelance science journey. 
+In this book, you'll find insights and lessons learned from my experiences as a freelance (data) scientist and entrepreneur as well as tips and tricks for getting started on your own freelance science journey. 
 
-This book is a (very early) work in progress, and as such, the content and structure are evolving.
-Presently, the content is organized by overarching aspects of freelancing science being broken down into specific tasks.
+This book is an early work in progress, and as such, the content and structure are evolving. 
+Presently, the content is organized by overarching aspects of freelancing science being broken down into specific tasks, with an introduction to the overarching concept here.
 
 ## "A freelance what?"
 
+In the most direct sense, [freelancing](#d_freelance) means that you're your own boss and you get work from multiple sources. 
+A freelance scientist is then just someone who does science for multiple entities but is functionall self-employed. 
+For me, I have set up DAPPER Stats as a legal entity so I can get contracts for reasearch, teaching, and training that bring in money to cover my salary, benefits, and other work costs (equipment, travel, training, etc.) while being independent from the organizations I collaborate with.
+
+As a freelancer, you might get work through an agency, company, or union that represents you, or you could create your own business entity that allows you to obtain work directly from clients. 
+With the goal of empowering you to [#BuildYourOwn](#d_BYO), this book will discuss working through entities, but focuses primarily on setting up your own entity.
