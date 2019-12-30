@@ -12,4 +12,8 @@ A freelance scientist is then just someone who does science for multiple entitie
 For me, I have set up DAPPER Stats as a legal entity so I can get contracts for reasearch, teaching, and training that bring in money to cover my salary, benefits, and other work costs (equipment, travel, training, etc.) while being independent from the organizations I collaborate with.
 
 As a freelancer, you might get work through an agency, company, or union that represents you, or you could create your own business entity that allows you to obtain work directly from clients. 
-With the goal of empowering you to #BuildYourOwn, this book will discuss working through entities, but focuses primarily on setting up your own entity.
+With the goal of empowering you to [#BuildYourOwn](#d_BYO), this book will discuss working through entities, but focuses primarily on setting up your own entity.
+
+Similar to other freelancing careers, there are many ways to become a successful Freelance Scientist: you can stay a solo operation or grow to include employees, for example. 
+And which career path makes sense will vary based on the scientist and their life situation, and could easily change over time.
+The goal of this book is therefore to show the benefits, considerations, and negatives of a variety of trajectories and decisions, rather than elevate a single path as the optimal choice.

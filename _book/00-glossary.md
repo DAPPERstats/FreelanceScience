@@ -1,5 +1,12 @@
 # Glossary {-#glossary}
 
+Definitions of words used here.
+
+#### #BuildYourOwn {-#d_BYO}
+A hashtag for entrepreneurs, tinkerers, community organizers, and other folks interested in doing things themselves. 
+[Twitter](https://twitter.com/search?q=%23BuildYourOwn)
+
 #### Freelance {-#d_freelance}
-Being your own boss and getting work from multiple sources.
+Being your own boss and getting work from multiple sources. 
+Could work through an entity or #BuildYourOwn.
 [Wikipedia](https://en.wikipedia.org/wiki/Freelancer)
