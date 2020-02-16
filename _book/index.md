@@ -1,7 +1,7 @@
 --- 
 title: "Freelance Science Guide"
 author: "Dr. Juniper L. Simonis"
-date: "2019-12-30"
+date: "2020-02-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]

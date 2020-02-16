@@ -6,15 +6,26 @@
 
 ### Address
 
-## Incorporating
+## Entity
 
-## Registration
+### Incorporating
 
-## Certifications
+### Registration
 
-## Taxes
+### Certifications
 
-## Payroll
+## Financials
 
-## Expenses
+### Budget
 
+### Taxes
+
+### Payroll
+
+### Expenses
+
+## Business Management
+
+### Business Plan
+
+### Structure

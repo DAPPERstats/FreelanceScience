@@ -11,3 +11,9 @@ Juniper is a 4-time world champion roller derby skater who competes with the [Ro
 <img src="images/jls1.png" alt="JLS"
 	width="333.4" height="500" class ="center"/>
 </a>
+
+### Juniper's Positionality Statement {-}
+
+I am white, middle-class, "millenial", transgender/non-binary/genderqueer/agender female, physically (fibromatosis) and psychologically (complex-PTSD) disabled, single, without dependents, non-veteran, raised-Catholic, atheist, housed, of European ancestry, and from the midwestern United States of America but living in the Pacific Northwest. 
+I have lived on, currently live on, or conducted research on the traditional, unceded [lands of many indigenous nations](https://native-land.ca/), including the Potowatami, Kickapoo, Sioux, Oklahoma, Peoria, Miami, Creek, Haudenosaunee, Cayuga, Susquehannock, Kumeyaay, Pennacook, Wabanaki, Kō Hawaiʻi Paeʻāina, Clackamas, and Cowlitz peoples.
+My ability to exist, thrive, and conduct research is predicated on a colonialist, capitalist, imperialist cultural system that was built by my ancestors and which I perpetuate, but seek to dimantle.
